@@ -1,0 +1,13 @@
+node_modules/
+dist/
+.vscode
+node_modules
+package-lock.json
+.nyc*
+.env
+coverage/*
+docker-command/*
+.vscode/*
+generatedFiles/*
+.env
+package.json
